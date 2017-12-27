@@ -8,7 +8,6 @@ all shapes, the more sides a shape has the more dangerous it is, or fractals, th
 
 MECHANICS NEEDED:
 health, damage, projectiles, powerups/upgrades? (maybe sides can represent health and each time an enemy (or you) gets hit you lose a side)
-###what does this mean? Does the shape change? will this be to difficult?
 points system needed for overal scoring or for added powerups/upgrades 
 spawning system for enemies
 movement system for enemies
@@ -29,7 +28,7 @@ lwjgl
 
 for sound:
 audacity for audio file creation
-### I have a version of FL Studio
+
 
 for art:
 inkscape so we can use vector graphics to scale the resolution of the game to match its window
