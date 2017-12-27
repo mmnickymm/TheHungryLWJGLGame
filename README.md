@@ -24,7 +24,7 @@ eclipse for java development
 lwjgl
 
 for sound:
-audacity for audio file creation
+audacity for audio file creationg
 
 for art:
 inkscape so we can use vector graphics to scale the resolution of the game to match its window
